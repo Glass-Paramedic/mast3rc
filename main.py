@@ -1,3 +1,2 @@
 While Drunk is True:
-  @mast3rc
-BALLLSLSSSSSSSSS IN YOUR MOTHERRRR
+  DEATH_TO_LEMONS = True
